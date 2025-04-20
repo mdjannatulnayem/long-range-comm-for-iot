@@ -79,7 +79,7 @@ You can install them from the Arduino Library Manager.
 ## 📷 Project Setup
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your_image_link_here" width="600" alt="Setup side view">
+  <img src="https://github.com/user-attachments/assets/9215a0d7-1ec3-437c-beb5-722807582e70" width="600" alt="Setup side view">
   <br>
   <em>Transmitter and Receiver setup on breadboard</em>
 </p>
